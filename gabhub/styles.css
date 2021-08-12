@@ -23,6 +23,12 @@ img {
   margin-right: auto;
 }
 
-a {
+a:link,
+a:visited {
   color: #ffa500;
+}
+
+a:hover,
+a:active {
+  color: #fff;
 }
