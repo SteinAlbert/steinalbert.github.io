@@ -33,3 +33,20 @@ a:active {
   color: #fff;
   cursor: pointer;
 }
+
+ul {
+  padding: 0;
+}
+ul li {
+  list-style-type: none;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  line-height: 2em;
+  border: 3px solid;
+}
