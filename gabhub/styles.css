@@ -17,6 +17,11 @@ img {
   width: 50vw;
 }
 
+#logo {
+  width: 25%;
+  height: 25%;
+}
+
 .center {
   display: block;
   margin-left: auto;
