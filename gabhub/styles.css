@@ -8,6 +8,10 @@ body {
   text-align: justify;
 }
 
+h3 {
+  width: 50%;
+}
+
 p {
   width: 50vw;
   line-height: 1.5em;
@@ -15,9 +19,6 @@ p {
 
 img {
   width: 50vw;
-}
-
-#logo {
 }
 
 .center {
@@ -52,4 +53,13 @@ ul li a {
   letter-spacing: 3px;
   line-height: 2em;
   border: 3px solid;
+}
+
+ol li h3 {
+  width: 50vw;
+}
+
+span {
+  color: #ffa500;
+  letter-spacing: 2px;
 }
